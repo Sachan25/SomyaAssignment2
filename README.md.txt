@@ -27,7 +27,7 @@ Install these dependencies using pip or conda before running the analysis.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. 
 
 Feel free to explore the notebook and adapt it to your needs. If you have any questions or suggestions, please open an issue in this repository.
 
